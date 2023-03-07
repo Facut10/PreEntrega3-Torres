@@ -1,0 +1,76 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+header {
+  background-color: rgb(90, 53, 90);
+}
+.logo__tamaño {
+  width: 150px;
+  height: 150px;
+}
+.nav-item {
+  list-style: none;
+  color: rgb(201, 145, 155);
+  font-size: 20px;
+}
+.nav-link {
+  text-decoration: none;
+}
+main {
+  background-image: url("../img/fondo3.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.foto-rojas__tamaño {
+  height: 225px;
+  width: 250px;
+}
+.fs-2 {
+  text-indent: 50px;
+  text-align: justify;
+}
+footer {
+  background-color: rgb(90, 53, 90);
+}
+.fs-4 {
+  color: white;
+}
+.text-decoration-none {
+  color: white;
+}
+
+/* contacto*/
+
+.img-ayuda__tamaño {
+  height: 450px;
+  width: 1000px;
+}
+
+/* recomendacion */
+.img-freud__tamaño {
+  height: 750px;
+  width: auto;
+}
+/* referentes */
+.img-referentes__tamaño {
+  height: 500px;
+  width: 383.5px;
+}
+@media (max-width: 768px) {
+  .img-referentes__tamaño {
+    height: 200px;
+    width: 200px;
+  }
+}
+@media (max-width: 992px) {
+  .img-referentes__tamaño {
+    height: 200px;
+    width: 200px;
+  }
+}
+.text__align {
+  text-align: justify;
+}

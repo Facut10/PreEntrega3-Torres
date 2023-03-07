@@ -1,0 +1,12 @@
+{
+  "name": "preentrega2-torres",
+  "version": "1.0.0",
+  "description": "Los archivos html que corresponden a la pre-entrega n°2 son referentes.html y contacto.html",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
