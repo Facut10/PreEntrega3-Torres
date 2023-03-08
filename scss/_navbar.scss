@@ -1,0 +1,17 @@
+header {
+  background-color: rgb(90, 53, 90);
+
+  .logo__tamaño {
+    width: 150px;
+    height: 150px;
+  }
+  .nav-item {
+    list-style: none;
+    color: rgb(201, 145, 155);
+    font-size: 20px;
+
+    .nav-link {
+      text-decoration: none;
+    }
+  }
+}
