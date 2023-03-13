@@ -43,7 +43,7 @@ main {
 main .foto-rojas__tamaño {
   width: 250px;
 }
-main .fs-2 {
+main .description_style {
   text-indent: 50px;
   text-align: justify;
 }
@@ -98,7 +98,13 @@ main .fs-2 {
     width: 200px;
   }
 }
-.text__align {
+.parrafos-style {
+  text-align: justify;
+  text-indent: 15px;
+}
+
+.parrafos-indent {
+  text-indent: 25px;
   text-align: justify;
 }
 
