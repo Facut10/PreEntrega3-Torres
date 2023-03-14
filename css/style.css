@@ -6,6 +6,9 @@
   font-family: "Lobster", cursive;
   font-family: "Mynerve", cursive;
 }
+* h1 {
+  font-weight: bolder;
+}
 
 header {
   background-color: rgb(90, 53, 90);
